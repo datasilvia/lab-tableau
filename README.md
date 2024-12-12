@@ -2,6 +2,9 @@
 
 # Lab | Tableau
 
+![My Dashboard](dashboard.png)
+
+
 ### Learning Outcomes
 
 Upon completion of this lab, you will be able to:
